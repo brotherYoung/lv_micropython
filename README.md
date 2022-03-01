@@ -5,3 +5,5 @@
    + A2: sudo apt install python3-pip
 + Q3: 'cmake' must be available on the PATH to use /home/young/esp-idf/tools/idf.py
    + A3: apt-get install cmake
++ Q4: fatal error: db.h: No such file or directory
+   + A4：
