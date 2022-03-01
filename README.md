@@ -3,3 +3,5 @@
    + A1：sudo apt-get install python-is-python3
 + Q2: /usr/bin/python: No module named pip
    + A2: sudo apt install python3-pip
++ Q3: 'cmake' must be available on the PATH to use /home/young/esp-idf/tools/idf.py
+   + A3: apt-get install cmake
