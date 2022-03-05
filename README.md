@@ -7,3 +7,5 @@
    + A3: apt-get install cmake
 + Q4: fatal error: db.h: No such file or directory
    + A4：
++ Q5: 想重新编译应该怎么做？
+   + Q5: make clean即可，如果想删除 esp-idf 与 lv_mirropython 重新下载编译，别忘了 whereis python, 删除 esp-idf 创建的 python 虚拟运行环境
