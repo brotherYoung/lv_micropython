@@ -10,6 +10,8 @@
 + Q5: 想重新编译应该怎么做？
    + Q5: make clean即可，如果想删除 esp-idf 与 lv_mirropython 重新下载编译，别忘了 whereis python, 删除 esp-idf 创建的 python 虚拟运行环境
 
+
+
 使用中遇到的一些问题：
 + Q1: 如何在 windows 中打开 wsl 文件夹
    + A1：/mnt/c/Windows/explorer.exe .
